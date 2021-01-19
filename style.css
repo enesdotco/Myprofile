@@ -13,3 +13,21 @@ p {
     color: rgba(255, 235, 205, 0.555);
 
 }
+
+.container {
+    align-content: center;
+    background-size: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.avatar {
+    padding: 1rem;
+    text-align: center;
+
+}
+.texts {
+    text-align: center;
+}
